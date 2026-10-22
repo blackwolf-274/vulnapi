@@ -101,7 +101,7 @@ vulnapi/
 bash
 
 ```
-git clone https://github.com/<your-username>/vulnapi.git
+git clone https://github.com/blackwolf-274/vulnapi.git
 cd vulnapi
 ```
 
